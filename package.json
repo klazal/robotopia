@@ -43,6 +43,8 @@
     "browserify-hmr": "^0.3.5",
     "budo": "^10.0.4",
     "standard": "^10.0.3",
+    "story-tab": "^1.0.15",
+    "story-tab-react": "^1.0.9",
     "yo-yoify": "^4.1.0"
   },
   "scripts": {
